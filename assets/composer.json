@@ -1,0 +1,8 @@
+{
+    "require": {
+        "picqer/php-barcode-generator": "^2.2",
+        "dompdf/dompdf": "^0.6.2",
+        "mpdf/mpdf": "^8.0",
+        "mike42/escpos-php": "^2.2"
+    }
+}
